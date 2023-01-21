@@ -7,5 +7,5 @@ public abstract class Abstract {
 	public void work() {
 		System.out.println("Working");
 	}
-	public abstract void salary();
+	
 }
